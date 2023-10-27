@@ -17,3 +17,5 @@ There is a notable difference in academic performance based on school size. Smal
 Scores by School Type:
 Charter schools consistently outperform district schools across various academic metrics. This could be due to differences in governance, teaching approaches, or other factors that make charter schools more effective in delivering quality education.
 
+[Main script](https://github.com/Sophiatun/Pandas_Challenge/blob/main/PyCitySchools/PyCitySchools_Analysis.ipynb)
+
